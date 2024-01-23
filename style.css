@@ -1,0 +1,84 @@
+@import url(https://developers.google.com/fonts/docs/getting_started);
+@import url(https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide);
+@import url(https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts);
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    font-size: 1rem;
+    overflow-x: hidden;
+}
+
+.navbar-nav .nav-link.active{
+    color: rgb(92, 92, 92);
+    font-size: 1.3rem;
+}
+
+.card{
+    background-color: none;
+    border: none;
+}
+
+.accordion-text{
+    font-size: 1.3rem;
+}
+
+.carosel-inner .carousel-item{
+    width: 100%;
+    margin: auto;
+
+}
+
+.card-title{
+    font-size: 5rem;
+    margin-left: 100px;
+}
+
+p.card-text{
+  
+    color:rgb(92, 92, 92);
+    line-height: 1.5;
+    font-size: 2rem;
+    
+}
+
+hr{
+    margin: 8px;
+}
+
+.sub-text{
+    font-size: 1rem;
+    opacity: 70%;
+}
+
+h4{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.grid{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.grid-h3{
+    font-size: 2.5rem;
+    color: rgb(92, 92, 92)
+}
+
+.grid-text{
+    font-size: 0.9rem;
+    width: 80%;
+    font-weight: bold;
+}
+
+.sub-grid{
+    line-height: 2;
+}
+
+
+
+/*
+
+@media (min-width: 375px) and (max-width: 1440px) {
+}
