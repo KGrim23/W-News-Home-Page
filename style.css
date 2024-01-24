@@ -26,7 +26,6 @@
 .carosel-inner .carousel-item{
     width: 100%;
     margin: auto;
-
 }
 
 .card-title{
@@ -35,11 +34,9 @@
 }
 
 p.card-text{
-  
     color:rgb(92, 92, 92);
     line-height: 1.5;
-    font-size: 2rem;
-    
+    font-size: 2rem;  
 }
 
 hr{
@@ -57,7 +54,7 @@ h4{
 }
 
 .grid{
-    margin-top: 150px;
+    margin-top: 130px;
     margin-bottom: 100px;
 }
 
@@ -77,8 +74,3 @@ h4{
 }
 
 
-
-/*
-
-@media (min-width: 375px) and (max-width: 1440px) {
-}
